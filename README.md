@@ -23,6 +23,8 @@
 
 ---
 
+<img align="right" width="280px" src="./coding.gif" alt="coding gif"/>
+
 **Full-Stack Developer**
 
 > *"Code is not just logic. It's craft."*
@@ -38,6 +40,8 @@ Também trabalho com **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **Java
 ◈  Build   →  Always shipping
 ◈  Status  →  Debugging in production.
 ```
+
+<br clear="right"/>
 
 ---
 
