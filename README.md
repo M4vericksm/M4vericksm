@@ -111,6 +111,7 @@ agora:     PWA offline-first em SvelteKit 🎮
 |---|---|---|
 | [**Hiraku** ひらく](https://github.com/M4vericksm/hiraku) | Leitor de mangás com catálogo de fontes online, leitura offline (IndexedDB) e app Android | SvelteKit · Svelte 5 · FastAPI · Capacitor |
 | [**Yoopix**](https://github.com/M4vericksm/yoopix) | Divide contas e gera cobrança Pix (copia e cola + QR Code + mensagem pro WhatsApp) — [yoopix.com.br](https://yoopix.com.br) | React 19 · TypeScript · Tailwind · Zod |
+| [**NetworkAtlas**](https://github.com/M4vericksm/network-atlas) | Orquestrador de VLAN/IPAM para provedores: extrai configs de 10 fabricantes e sincroniza phpIPAM/NetBox, com topologia e MFA | FastAPI · PostgreSQL · SQLAlchemy · Docker |
 | [**Flow Orizon**](https://github.com/M4vericksm/Flow-Orizon) | Quadro de tarefas estilo Trello com compartilhamento, JWT e integrações | Django REST · React · PostgreSQL · Docker |
 | **Arquipélago** *(privado)* | PWA offline-first de orçamento + estudos com progressão de RPG; importa extratos OFX/CSV/PDF | SvelteKit · TypeScript · IndexedDB · Vitest |
 
