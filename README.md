@@ -33,12 +33,13 @@ agora:     PWA offline-first em SvelteKit 🎮
 ### 🧠 IA & LLMs
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=claude&logoColor=4C9AC9"/>
-  <img src="https://img.shields.io/badge/Claude_Code-111?style=for-the-badge&logo=anthropic&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/LLMs-111?style=for-the-badge&logo=openaigym&logoColor=4C9AC9"/>
   <img src="https://img.shields.io/badge/MCP-111?style=for-the-badge&logo=modelcontextprotocol&logoColor=4C9AC9"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cursor-111?style=for-the-badge&logo=cursor&logoColor=4C9AC9"/>
-  <img src="https://img.shields.io/badge/Agentes_%26_Prompt_Eng.-111?style=for-the-badge&logo=probot&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/RAG-111?style=for-the-badge&logo=langchain&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/AI_Agents-111?style=for-the-badge&logo=probot&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/Tool_Calling-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings_%26_Vector_DB-111?style=for-the-badge&logo=huggingface&logoColor=4C9AC9"/>
 </p>
 
 ### ⚙️ Linguagens
@@ -76,7 +77,7 @@ agora:     PWA offline-first em SvelteKit 🎮
   <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=4C9AC9"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### 🌐 Cloud, Infra & Redes
 
 <p>
   <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge"/>
@@ -86,6 +87,11 @@ agora:     PWA offline-first em SvelteKit 🎮
   <img src="https://img.shields.io/badge/Caddy-111?style=for-the-badge&logo=caddy&logoColor=4C9AC9"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-111?style=for-the-badge&logo=githubactions&logoColor=4C9AC9"/>
   <img src="https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/Cisco-111?style=for-the-badge&logo=cisco&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/Huawei-111?style=for-the-badge&logo=huawei&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/MikroTik-111?style=for-the-badge&logo=mikrotik&logoColor=4C9AC9"/>
+  <img src="https://img.shields.io/badge/Datacom-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NetBox_%2F_IPAM-111?style=for-the-badge"/>
 </p>
 
 ### 🧪 Testes
