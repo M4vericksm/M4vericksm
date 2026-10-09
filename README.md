@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1800&color=4C9AC9&center=true&vCenter=true&width=640&lines=Maverick+Martins;Full-Stack+Developer+%C2%B7+Python+%26+TypeScript;IA+%2F+LLMs+no+fluxo+de+desenvolvimento;Automa%C3%A7%C3%A3o+de+redes+e+infraestrutura" alt="Maverick Martins — Full-Stack Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1800&color=4C9AC9&center=true&vCenter=true&width=640&lines=Maverick+Martins;Full-Stack+Developer+%C2%B7+Python+%26+TypeScript;IA+%2F+LLMs+no+fluxo+de+desenvolvimento;Do+zero+at%C3%A9+produ%C3%A7%C3%A3o" alt="Maverick Martins — Full-Stack Developer"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maverickmartins)
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-0d0d0d?style=flat-square&logo=githubpages&logoColor=4C9AC9)](https://m4vericksm.github.io/Portfolio/)
@@ -16,13 +16,13 @@
 
 Desenvolvedor full-stack 🇧🇷 que gosta de levar o projeto do zero até produção: **backend em Python** (FastAPI, Django), **front-end em TypeScript** (SvelteKit, React), banco, Docker e deploy.
 
-Hoje boa parte do meu trabalho envolve **automação de redes e infraestrutura** — orquestração de IPAM, NetBox, coleta de configs via SSH em MikroTik/Huawei/Cisco/Datacom e integrações com sistemas de ISP — e uso **IA/LLMs** como parte real do fluxo: agentes de código, MCP e integração de modelos em produtos.
+Construo APIs, aplicações web e PWAs offline-first, integrações com serviços externos e automações — e uso **IA/LLMs** como parte real do fluxo: agentes de código, MCP e integração de modelos em produtos.
 
 ```yaml
 foco:      Python · TypeScript · IA aplicada
 backend:   FastAPI · Django REST · PostgreSQL
 frontend:  SvelteKit (Svelte 5) · React · Tailwind
-infra:     AWS · Docker · Linux · CI/CD · NetBox
+infra:     AWS · Docker · Linux · CI/CD
 agora:     PWA offline-first em SvelteKit 🎮
 ```
 
@@ -76,7 +76,7 @@ agora:     PWA offline-first em SvelteKit 🎮
   <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=4C9AC9"/>
 </p>
 
-### 🌐 Infra, Redes & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge"/>
@@ -86,8 +86,6 @@ agora:     PWA offline-first em SvelteKit 🎮
   <img src="https://img.shields.io/badge/Caddy-111?style=for-the-badge&logo=caddy&logoColor=4C9AC9"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-111?style=for-the-badge&logo=githubactions&logoColor=4C9AC9"/>
   <img src="https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel&logoColor=4C9AC9"/>
-  <img src="https://img.shields.io/badge/NetBox_%2F_IPAM-111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MikroTik-111?style=for-the-badge&logo=mikrotik&logoColor=4C9AC9"/>
 </p>
 
 ### 🧪 Testes
@@ -108,7 +106,6 @@ agora:     PWA offline-first em SvelteKit 🎮
 | [**Hiraku** ひらく](https://github.com/M4vericksm/hiraku) | Leitor de mangás com catálogo de fontes online, leitura offline (IndexedDB) e app Android | SvelteKit · Svelte 5 · FastAPI · Capacitor |
 | [**Yoopix**](https://github.com/M4vericksm/yoopix) | Divide contas e gera cobrança Pix (copia e cola + QR Code + mensagem pro WhatsApp) — [yoopix.com.br](https://yoopix.com.br) | React 19 · TypeScript · Tailwind · Zod |
 | [**Flow Orizon**](https://github.com/M4vericksm/Flow-Orizon) | Quadro de tarefas estilo Trello com compartilhamento, JWT e integrações | Django REST · React · PostgreSQL · Docker |
-| **NetworkAtlas** *(privado)* | Orquestrador de rede: descobre ativos, extrai VLANs/subnets via SSH e sincroniza com o phpIPAM | FastAPI · PostgreSQL · Paramiko · Alembic · Docker |
 | **Arquipélago** *(privado)* | PWA offline-first de orçamento + estudos com progressão de RPG; importa extratos OFX/CSV/PDF | SvelteKit · TypeScript · IndexedDB · Vitest |
 
 ---
